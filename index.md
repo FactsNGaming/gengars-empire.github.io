@@ -10,5 +10,4 @@
 <li> We respect each-other just as our friends 
 </ul> 
   <h4> [Make sure to join us in our journey] </h4>>
-  
-  </html>
+
