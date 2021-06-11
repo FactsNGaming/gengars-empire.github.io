@@ -9,5 +9,6 @@
 <li> we have an great and passive community 
 <li> We respect each-other just as our friends 
 </ul> 
-  <h4> [Make sure to join us in our journey](https://cutt.ly/gempire) </h4>>
-  </html>
+  <h4> [Make sure to join us in our journey]
+(https://cutt.ly/gempire) </h4>>
+  
